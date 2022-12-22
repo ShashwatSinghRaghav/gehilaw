@@ -250,6 +250,19 @@ a {
   border-bottom: 2px solid #ffffff;
 }
 
+.btn-default1 {
+  display: inline-block;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid #5e5e5e;
+  padding-bottom: 4px;
+}
+.btn-default1:hover {
+  color: #474747;
+  border-bottom: 2px solid #474747;
+}
+
 .fixed-bg {
   position: absolute;
   top: 0;
